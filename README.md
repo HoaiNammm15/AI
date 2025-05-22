@@ -5,3 +5,5 @@
 21/05/2025 - Push algos
 -> Review all algo
 -> Code A* ,Uniform search , ToMau
+22/05/2025 - Add more algos
+->Code Gts1 , gts2 , dsatur
